@@ -1,6 +1,6 @@
 Obj=factory
 Name=steel_engineering
-Location=Land
+Location=City
 DistributionWeight=100
 Productivity=80
 Range=120
