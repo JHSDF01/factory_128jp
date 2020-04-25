@@ -1,7 +1,7 @@
 ﻿JHSDF_appliance_factory
 家電工場
 JHSDF_beer_factory_1900
-ビール工場
+麦酒製造所
 JHSDF_beer_factory_1950
 ビール工場
 JHSDF_beer_hall_1900
@@ -9,9 +9,9 @@ JHSDF_beer_hall_1900
 JHSDF_car_factory
 自動車工場
 JHSDF_car_shop_1920
-自動車販売店
+自動車商店
 JHSDF_car_shop_1960_orig1
-自動車販売店
+カーディーラー
 JHSDF_cement_factory_1900
 セメント工場
 JHSDF_coalmine_1899
@@ -22,6 +22,8 @@ JHSDF_electrical_component_factory
 電機部品工場
 JHSDF_glass_factory
 ガラス工場
+JHSDF_grain_farm_1900
+麦畑
 JHSDF_ironworks_1900
 製鉄所
 JHSDF_Limestone_mine
@@ -42,6 +44,10 @@ steel_engineering
 鉄工所
 JHSDF_beer_tank_1
 ビールタンク
+JHSDF_grain_field_1
+麦畑
+JHSDF_grain_field_2
+麦畑
 JHSDF_oil_tank_a
 石油タンク
 JHSDF_oil_tank_b
@@ -58,10 +64,10 @@ beer3
 ビール(パレット)
 Electronics3
 電機部品(パレット)
-flower1
-麦(ばら積み)
-flower3
-麦(パレット)
+flour1
+小麦粉(ばら積み)
+flour3
+小麦粉(パレット)
 Glass3
 ガラス(パレット)
 grain2
@@ -78,3 +84,5 @@ Factory_Smoke_black
 黒煙
 Factory_Smoke_white
 白煙
+JHSDF_yaoya
+八百屋

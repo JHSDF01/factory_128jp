@@ -44,7 +44,7 @@ speed_bonus=5
 weight_per_unit=1000
 -----------------------
 obj=good
-name=flower1
+name=flour1
 metric=tonnen
 catg=1
 value=20
@@ -52,7 +52,7 @@ speed_bonus=5
 weight_per_unit=1000
 -----------------------
 obj=good
-name=flower3
+name=flour3
 metric=paletten
 catg=3
 value=90

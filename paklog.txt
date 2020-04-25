@@ -54,6 +54,13 @@ writing invidual files to ./pak/
    writing file ./pak/factory.JHSDF_coalmine_1899.pak
       packing factory.JHSDF_coalmine_1899
 writing invidual files to ./pak/
+   reading file ./grain/farm_grain.dat
+   writing file ./pak/factory.JHSDF_grain_farm_1900.pak
+      packing factory.JHSDF_grain_farm_1900
+   writing file ./pak/field.JHSDF_grain_field_1.pak
+      packing field.JHSDF_grain_field_1
+   writing file ./pak/field.JHSDF_grain_field_2.pak
+      packing field.JHSDF_grain_field_2
 writing invidual files to ./pak/
    reading file ./oil/JHSDF_oil_tank.DAT
    writing file ./pak/field.JHSDF_oil_tank_a.pak
@@ -79,6 +86,13 @@ writing invidual files to ./pak/
    writing file ./pak/factory.steel_engineering.pak
       packing factory.steel_engineering
 writing invidual files to ./pak/
+   reading file ./vegetable/JHSDF_yaoya.dat
+   writing file ./pak/factory.JHSDF_yaoya.pak
+      packing factory.JHSDF_yaoya
+   reading file ./vegetable/JHSDF_yaoya_house.dat
+   writing file ./pak/building.JHSDF_yaoya_house.pak
+      packing building.JHSDF_yaoya_house
+writing invidual files to ./pak/
    reading file ./Goods_JHSDF.dat
    writing file ./pak/good.grain2.pak
       packing good.grain2
@@ -86,10 +100,10 @@ writing invidual files to ./pak/
       packing good.beer2
    writing file ./pak/good.beer3.pak
       packing good.beer3
-   writing file ./pak/good.flower1.pak
-      packing good.flower1
-   writing file ./pak/good.flower3.pak
-      packing good.flower3
+   writing file ./pak/good.flour1.pak
+      packing good.flour1
+   writing file ./pak/good.flour3.pak
+      packing good.flour3
    writing file ./pak/good.Limestone1.pak
       packing good.Limestone1
    writing file ./pak/good.Rubber3.pak
