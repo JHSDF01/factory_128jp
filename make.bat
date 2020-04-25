@@ -1,10 +1,10 @@
-makeobj pak128 ./pak/ ./appliance/
-makeobj pak128 ./pak/ ./beer/
-makeobj pak128 ./pak/ ./car/
-makeobj pak128 ./pak/ ./cement/
-makeobj pak128 ./pak/ ./coal/
-makeobj pak128 ./pak/ ./grain
-makeobj pak128 ./pak/ ./oil/
-makeobj pak128 ./pak/ ./smoke/
-makeobj pak128 ./pak/ ./steel/
-makeobj pak128 ./pak/ ./
+makeobj pak128 ./pak/ ./appliance/ > paklog.txt
+makeobj pak128 ./pak/ ./beer/ >> paklog.txt
+makeobj pak128 ./pak/ ./car/ >> paklog.txt
+makeobj pak128 ./pak/ ./cement/ >> paklog.txt
+makeobj pak128 ./pak/ ./coal/ >> paklog.txt
+makeobj pak128 ./pak/ ./grain >> paklog.txt
+makeobj pak128 ./pak/ ./oil/ >> paklog.txt
+makeobj pak128 ./pak/ ./smoke/ >> paklog.txt
+makeobj pak128 ./pak/ ./steel/ >> paklog.txt
+makeobj pak128 ./pak/ ./ >> paklog.txt

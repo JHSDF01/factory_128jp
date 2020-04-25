@@ -1,0 +1,108 @@
+writing invidual files to ./pak/
+   reading file ./appliance/JHSDF_appliance_factory.dat
+   writing file ./pak/factory.JHSDF_appliance_factory.pak
+      packing factory.JHSDF_appliance_factory
+   reading file ./appliance/JHSDF_national_shop_fac.dat
+   writing file ./pak/factory.JHSDF_National_shop_fac.pak
+      packing factory.JHSDF_National_shop_fac
+   reading file ./appliance/JHSDF_onoden_fac.dat
+   writing file ./pak/factory.JHSDF_Onoden_honkan_fac.pak
+      packing factory.JHSDF_Onoden_honkan_fac
+writing invidual files to ./pak/
+   reading file ./beer/JHSDF_beer_factory_1900.dat
+   writing file ./pak/factory.JHSDF_beer_factory_1900.pak
+      packing factory.JHSDF_beer_factory_1900
+   reading file ./beer/JHSDF_beer_factory_1950.dat
+   writing file ./pak/field.JHSDF_beer_tank_1.pak
+      packing field.JHSDF_beer_tank_1
+   writing file ./pak/factory.JHSDF_beer_factory_1950.pak
+      packing factory.JHSDF_beer_factory_1950
+   reading file ./beer/JHSDF_beer_hall_1900.dat
+   writing file ./pak/factory.JHSDF_beer_hall_1900.pak
+      packing factory.JHSDF_beer_hall_1900
+writing invidual files to ./pak/
+   reading file ./car/factories_car.dat
+   writing file ./pak/factory.JHSDF_rubber_factory.pak
+      packing factory.JHSDF_rubber_factory
+   writing file ./pak/factory.JHSDF_sand_mine.pak
+      packing factory.JHSDF_sand_mine
+   writing file ./pak/factory.JHSDF_glass_factory.pak
+      packing factory.JHSDF_glass_factory
+   writing file ./pak/factory.JHSDF_machine_factory.pak
+      packing factory.JHSDF_machine_factory
+   writing file ./pak/factory.JHSDF_electrical_component_factory.pak
+      packing factory.JHSDF_electrical_component_factory
+   writing file ./pak/factory.JHSDF_car_factory.pak
+      packing factory.JHSDF_car_factory
+   writing file ./pak/factory.JHSDF_car_shop_1920.pak
+      packing factory.JHSDF_car_shop_1920
+   reading file ./car/JHSDF_carshop1960_orig.dat
+   writing file ./pak/factory.JHSDF_car_shop_1960_orig1.pak
+      packing factory.JHSDF_car_shop_1960_orig1
+writing invidual files to ./pak/
+   reading file ./cement/JHSDF_cement_factory.dat
+   writing file ./pak/factory.JHSDF_cement_factory_1900.pak
+      packing factory.JHSDF_cement_factory_1900
+   reading file ./cement/JHSDF_concrete_fac.dat
+   writing file ./pak/factory.JHSDF_Concrete_factory.pak
+      packing factory.JHSDF_Concrete_factory
+   reading file ./cement/JHSDF_Limestone_mine.dat
+   writing file ./pak/factory.JHSDF_Limestone_mine.pak
+      packing factory.JHSDF_Limestone_mine
+writing invidual files to ./pak/
+   reading file ./coal/JHSDF_coalmine_1899.dat
+   writing file ./pak/factory.JHSDF_coalmine_1899.pak
+      packing factory.JHSDF_coalmine_1899
+writing invidual files to ./pak/
+writing invidual files to ./pak/
+   reading file ./oil/JHSDF_oil_tank.DAT
+   writing file ./pak/field.JHSDF_oil_tank_a.pak
+      packing field.JHSDF_oil_tank_a
+   writing file ./pak/field.JHSDF_oil_tank_b.pak
+      packing field.JHSDF_oil_tank_b
+   writing file ./pak/field.JHSDF_oil_tank_c.pak
+      packing field.JHSDF_oil_tank_c
+   reading file ./oil/JHSDF_Raffinerie_a.dat
+   writing file ./pak/factory.JHSDF_Raffinerie.pak
+      packing factory.JHSDF_Raffinerie
+writing invidual files to ./pak/
+   reading file ./smoke/JHSDF_Factory_Smoke_01.DAT
+   writing file ./pak/smoke.Factory_Smoke_black.pak
+      packing smoke.Factory_Smoke_black
+   writing file ./pak/smoke.Factory_Smoke_white.pak
+      packing smoke.Factory_Smoke_white
+writing invidual files to ./pak/
+   reading file ./steel/JHSDF_ironworks_1900.dat
+   writing file ./pak/factory.JHSDF_ironworks_1900.pak
+      packing factory.JHSDF_ironworks_1900
+   reading file ./steel/steel_engineering.dat
+   writing file ./pak/factory.steel_engineering.pak
+      packing factory.steel_engineering
+writing invidual files to ./pak/
+   reading file ./Goods_JHSDF.dat
+   writing file ./pak/good.grain2.pak
+      packing good.grain2
+   writing file ./pak/good.beer2.pak
+      packing good.beer2
+   writing file ./pak/good.beer3.pak
+      packing good.beer3
+   writing file ./pak/good.flower1.pak
+      packing good.flower1
+   writing file ./pak/good.flower3.pak
+      packing good.flower3
+   writing file ./pak/good.Limestone1.pak
+      packing good.Limestone1
+   writing file ./pak/good.Rubber3.pak
+      packing good.Rubber3
+   writing file ./pak/good.Glass3.pak
+      packing good.Glass3
+   writing file ./pak/good.Machine3.pak
+      packing good.Machine3
+   writing file ./pak/good.Electronics3.pak
+      packing good.Electronics3
+   writing file ./pak/good.Autos0.pak
+      packing good.Autos0
+   writing file ./pak/good.Sand1.pak
+      packing good.Sand1
+   writing file ./pak/good.Appliance2.pak
+      packing good.Appliance2
